@@ -1,0 +1,670 @@
+﻿Country;Store;Store Name;Address;Postal code;City;Region;Latitude;Longitude
+DK;DK1001; Silkeborg;Torvet 2;8000;Silkeborg;3;56,16844;9,54574
+DK;DK1002; Aalborg City;Algade 19;9000;Aalborg;1;57,04703;9,92412
+DK;DK1003; Vejle;Torvegade 12;7100;Vejle;4;55,70848;9,53321
+DK;DK1004; Randers City;Dytmærsken 5;8900;Randers;2;56,45941;10,03888
+DK;DK1006; Odense;Vestergade 67;5000;Odense;4;55,394712;10,3804883
+DK;DK1007; Waves;Over Bølgen 7D;2670;Greve;5;55,598368;12,3260493
+DK;DK1008; Vesterbrogade;;1620;København V;7;55,6727889;12,5482178
+DK;DK1009; Horsens;Søndergade 13;8700;Horsens;4;55,862169;9,844618
+DK;DK1010; Ballerup;Ballerup-Centret 2;2750;Ballerup;7;55,729058;12,3557372
+DK;DK1011; Aalborg Stc;Hobrovej 450-452;9200;Aalborg SV;1;57,0046866;9,873889
+DK;DK1012; Roskilde;Skomagergade 5;4000;Roskilde;6;55,6408997;12,0772298
+DK;DK1014; Holstebro;Nørregade 1;7500;Holstebro;1;56,3590875;8,6150396
+DK;DK1015; Fields;Arne Jakobsens Allé 20;2300;København;5;55,6299477;12,5757602
+DK;DK1016; Fisketorvet;Kalvebod Brygge 59;1561;København V;7;55,6619346;12,5591847
+DK;DK1017; Herning;Bredgade 28;7400;Herning;3;56,1362991;8,9687897
+DK;DK1018; Herlev;Herlev Bygade 22;2730;Herlev;7;55,7248769;12,4370652
+DK;DK1019; Viborg;Sct. Mathias Gade 33;8800;Viborg;1;56,4494702;9,4053773
+DK;DK1020; Frederikshavn;Danmarksgade 74b;9900;Frederikshavn;1;57,4388579;10,5330522
+DK;DK1021; Sønderborg;Kastanie Alle 3;6400;Sønderborg;3;54,9094171;9,789206
+DK;DK1022; Helsingør Bycenter;Stürups Plads 1;3000;Helsingør;6;56,0326489;12,6056696
+DK;DK1023; Slagelse;Jernbanegade 10a;4200;Slagelse;5;55,4181714;11,3335001
+DK;DK1024; Frederikssund;Nygade 1;3600;Frederikssund;6;55,8355049;12,0622705
+DK;DK1025; Kolding Storcenter;Skovvangen 42;6000;Kolding;4;55,5139433;9,457668
+DK;DK1026; Fredericia;Gothersgade 14;7000;Fredericia;4;55,5660648;9,7543213
+DK;DK1027; Nykøbing F.;Østergågade 11-15;4800;Nykøbing F;5;54,7815417;11,8852502
+DK;DK1028; City 2;City 2, Hveen Boulevard;2630;Taastrup;7;55,6442909;12,2765412
+DK;DK1029; Købmagergade;Købmagergade 60;1150;København K;8;55,6818103;12,5731523
+DK;DK1030; Hjørring Metropol;Østergade 30;9800;Hjørring;1;57,4567543;9,9883967
+DK;DK1031; City Vest;Gudrunsvej 7;8220;Brabrand;2;56,1545463;10,1328903
+DK;DK1032; Egedal;Egedal Centret 88;3660;Stenløse;7;55,7679837;12,1888399
+DK;DK1033; Normal Hvidovre Friheden;Strandmarksvej 20;2650;Hvidovre;7;55,627023;12,4819316
+DK;DK1034; Bruuns Galleri;M.P. Bruuns Gade 25;8000;Aarhus C;2;56,1491507;10,2026022
+DK;DK1035; Farum;Farum Bytorv 73;3520;Farum;7;55,8144893;12,3782082
+DK;DK1036; Rødovre;Rødovre Centrum;2610;Rødovre;7;55,6788351;12,4548089
+DK;DK1037; Amager Centret;Reberbanegade 3;2300;København S;5;55,6630115;12,6020523
+DK;DK1038; Ishøj;Østergade 29;2635;Ishøj;5;55,6157579;12,3426223
+DK;DK1039; Thisted;Torvegade 4-6;7700;Thisted;1;56,9549277;8,6890733
+DK;DK1040; Holte;Holte Midtpunkt;2840;Holte;8;55,8113371;12,4700881
+DK;DK1041; Næstved Storcenter;Næstved Storcenter;4700;Næstved;5;55,2524214;11,7777581
+DK;DK1042; Kalundborg;Kordilgade 6;4400;Kalundborg;6;55,6806744;11,0857613
+DK;DK1043; Glostrup Shoppingcenter;Glostrup shoppingcenter 101;2600;Glostrup;7;55,6648591;12,3971839
+DK;DK1044; Nørrebro Bycenter;Lygten 2;2400;København NV;8;55,7016313;12,5354713
+DK;DK1045; Randers Storcenter;Merkurvej 55;8960;Randers;2;56,4297019;10,0617112
+DK;DK1046; Esbjerg;Kongensgade 33;6700;Esbjerg;3;55,4662096;8,4489548
+DK;DK1047; Værløse;Bymidten 90;3500;Værløse;8;55,783031;12,3719764
+DK;DK1048; Svendborg city;Kattesundet 2;5700;Svendborg;4;55,0595284;10,6067278
+DK;DK1049; Køge;Brogade 11-13;4600;Køge;5;55,4554467;12,1800063
+DK;DK1050; Albertslund;Stationstorvet 24;2620;Albertslund;7;55,6570238;12,3512892
+DK;DK1051; Spinderiet Valby;Torvegade 22;2500;Valby;7;55,6650147;12,5085796
+DK;DK1052; ROs Torv;Ros torv 1;4000;Roskilde;6;55,6414214;12,0979763
+DK;DK1053; Greve;Greve midtbycenter;2670;Greve;5;55,5826796;12,2939078
+DK;DK1054; Aabenraa;Storegade 3 st;6200;Aabenraa;3;55,0451202;9,416585
+DK;DK1055; Aars;Himmerlandsgade 84;9600;Aars;1;56,8034204;9,5136953
+DK;DK1056; Vejen;Nørregade 14;6600;Vejen;3;55,4764121;9,1365389
+DK;DK1057; Tønder;Vestergade 19;6270;Tønder;3;54,9349905;8,8654471
+DK;DK1058; Skive;Nørregade 22;7800;Skive;1;56,568276;9,0249148
+DK;DK1059; Kolding City;Rendebanen 13;6000;Kolding;4;55,4893163;9,470425
+DK;DK1060; Herning Centret;Merkurvej 1a;7400;Herning;3;56,1356637;8,9973904
+DK;DK1061; Hørsholm;Midtpunkt;2970;Hørsholm;6;55,8819244;12,4936213
+DK;DK1062; Nakskov;Nygade 4A;4900;Nakskov;5;54,8301039;11,1388761
+DK;DK1063; Ringsted;Torvet 1;4100;Ringsted;5;55,4407314;11,7791441
+DK;DK1064; Skanderborg;Adelgade 61;8660;Skanderborg;2;56,0336158;9,92816
+DK;DK1065; Brønderslev;Albani Plads 2;9700;Brønderslev;1;57,267375;9,9449745
+DK;DK1066; Strøget København;Nygade 1-3;1164;København K;8;55,6783044;12,5715862
+DK;DK1067; Hellerup;Strandvejen 159;2900;Hellerup;8;55,7319703;12,5733151
+DK;DK1068; Ribe;Saltgade 10;6760;Ribe;3;55,3305996;8,7646992
+DK;DK1070; Normal Hvidovre C Stationscenter;Laurits Olsens Vej 1;2650;Hvidovre;7;55,663821;12,4720442
+DK;DK1071; Frederiksværk;Nordcentret lejemål 1;3300;Frederiksværk;6;55,9769832;12,0168819
+DK;DK1072; Bagsværd;Bagsværd Hovedgade 106;2880;Bagsværd;8;55,7601585;12,454151
+DK;DK1073; Vordingborg;Algade 81;4760;Vordingborg;5;55,0092243;11,90593
+DK;DK1074; Vojens;Rådhuscentret 47;6500;Vojens;3;55,2461748;9,2899433
+DK;DK1075; Normal Bjerringbro;Storegade 16 st.;8850;Bjerringbro;2;56,3745214;9,6538005
+DK;DK1076; Haderslev;Gravene 1;6100;Haderslev;3;55,2511439;9,485183
+DK;DK1078; Holbæk;Ahlgade 17C;4300;Holbæk;6;55,7175232;11,708751
+DK;DK1079; Odder;Rosengade 28;8300;Odder;2;55,9724432;10,1432362
+DK;DK1080; Aalborg Bispensgade;Bispensgade 14;9000;Aalborg;1;57,0495815;9,9172816
+DK;DK1081; Odense, Rosengårdcentret;Ørbækvej 75a;5220;Odense;4;55,3843636;10,4247688
+DK;DK1082; Vanløse, Kronen;Apollovej 33;2720;Vanløse;8;55,6880885;12,4908323
+DK;DK1083; Esbjerg Storcenter;Gl. Vardevej 230, lejemål 318;6715;Esbjerg N.;3;55,5079272;8,4470018
+DK;DK1084; Middelfart;Nytorv 7;5500;Middelfart;4;55,5043191;9,7347113
+DK;DK1085; København, Dr. Tværgade;Frederiksborggade 15;1360;København K;8;55,6843861;12,583821
+DK;DK1087; Næstved, Axeltorv;Axeltorv 1;4700;Næstved;5;55,2309468;11,7563069
+DK;DK1088; Aarhus, Telefontorvet;Telefontorvet 10;8000;Aarhus C;2;56,1552692;10,2050367
+DK;DK1089; Rønne, Snellemark;Nordre Kystvej 32;3700;Rønne;6;55,1026161;14,690847
+DK;DK1090; Aarhus, Ryesgade;Ryesgade 4;8000;Aarhus C;2;56,152657;10,2026963
+DK;DK1091; København N, Nørrebrogade;Nørrebrogade 174;2200;København N;8;55,6969306;12,5436678
+DK;DK1092; Christianshavns Torv;Torvegade 47;1400;København;8;55,6725027;12,5894858
+DK;DK1093; Kbh., Frederiksberg Centret;Falkoner Allé 21;2000;Frederiksberg;8;55,6815861;12,5304885
+DK;DK1094; Aarhus, Søndergade;Søndergade 39-43, St.;8000;Aarhus C;2;56,1539248;10,2042569
+DK;DK1095; Aarhus, Storcenter Nord;Finlandsgade 17;8200;Aarhus N;2;56,1708813;10,1860225
+DK;DK1096; Aarhus, Viby Centret;Viby Centret 2-23;8260;Viby J;2;56,1236297;10,1467159
+DK;DK1097; Brønshøj, brønshøj torv;Brønshøj;2700;København K;7;55,7046224;12,497162
+DK;DK1099; Odense, Tarup Center;Rugvang 36-40;5210;Odense NV;4;55,409634;10,3377663
+DK;DK1100; København, Vesterbrogade 12;Vesterbrogade 12;1620;København V;7;55,67373;12,5580153
+DK;DK1101; Nyborg, Korsgade;Nyborg Korsgade 4 st.;5800;Nyborg;4;55,311805;10,7878449
+DK;DK1102; Hobro, Adelgade;Adelgade 38;9500;Hobro;2;56,6381626;9,7916407
+DK;DK1103; Aalborg, Friis Shoppingcenter;Nytorv 27;9000;Aalborg;1;57,047757;9,924262
+DK;DK1104; Sønderborg, Stenager Centret;Stenager 17B;6400;Sønderborg;3;54,9235599;9,8074597
+DK;DK1105; Skagen, Skråvej;Skråvej 6A-6B;9990;Skagen;1;57,7223628;10,5886113
+DK;DK1106; Birkerød, Hovedgaden;Hovedgaden 23;3460;Birkerød;8;55,842035;12,4305026
+DK;DK1107; Frederiksberg, Falkoner Alle;Falkoner Alle 55;2000;Frederiksberg;8;55,685201;12,5359173
+DK;DK1108; Gentofte, Gentoftegade;Gentoftegade 50;2820;Gentofte;8;55,7475473;12,5385397
+DK;DK1109; Ikast, Strøget;Strøget 1;7430;Ikast;3;56,1396836;9,1525458
+DK;DK1110; Billund, Butikstorvet;Byens Plads 20B;7190;Billund;4;55,7308183;9,114433
+DK;DK1111; Hammel, Tema Centret;Godthåbsvej 10;8450;Hammel;2;56,2556625;9,8654341
+DK;DK1112; Viborg, Viborg Storcenter;Holstebrovej 81;8800;Viborg;1;56,4470463;9,3636103
+DK;DK1114; Aarhus, Tordenskjoldsgade;Tordenskjoldsgade 55;8200;Aarhus N;2;56,1719448;10,2140278
+DK;DK1115; Hørning, Nørre Alle;Nørre Alle 16;8362;Hørning;2;56,086429;10,0355276
+DK;DK1116; Varde, Torvet;Torvet 2;6800;Varde;3;55,6202808;8,4787652
+DK;DK1117; Nykøbing Sjælland, Algade;Algade 21;4500;Nykøbing Sjælland;6;55,9225407;11,6664826
+DK;DK1118; Taastrup, Taastrup Hovedgade;Taastrup Hovedgade 87;2630;Taastrup;7;55,6498591;12,2997783
+DK;DK1119; Skjern, Skjern Centret;Holger Danskes Plads 4;6900;Skjern;3;55,9458921;8,4941963
+DK;DK1120; Viborg Sct. Mathias Centret,;Sct. Mathias Centret 1;8800;Viborg;1;56,4484761;9,4052071
+DK;DK1123; Køge, Strædet;Rådhusstræde 8C;4600;Køge;5;55,4571948;12,1833008
+DK;DK1124; Vallensbæk, Stationstorvet;Vallensbæk Stationstorv 17;2665;Vallensbæk;5;55,6241399;12,3866337
+DK;DK1125; Jyllinge, Jyllinge Centret;Jyllingecentret 6;4040;Jyllinge;6;55,74997;12,10778
+DK;DK1126; Odense, Ørbækvej;Ørbækvej 113;5220;Odense;4;55,3781315;10,4329756
+DK;DK1127; Odense, Kongensgade;Kongensgade 42-46, St.;5000;Odense C;4;55,3967291;10,3812929
+DK;DK1129; Odense, Dalumcentret;Dalumvej 42, st.;5250;Odense SV;4;55,3709613;10,3704229
+DK;DK1130; Esbjerg, City Nord;Saltgade 10;6760;Ribe;3;55,5103762;8,4558189
+DK;DK1131; Nykøbing F, Guldborgsundcentret;Guldborgsund Centeret 12;4800;Nykøbing F.;5;54,7598481;11,8539622
+DK;DK1132; Helsingør, Prøvestenscentret;Prøvestensvej 22;3000;Helsingør;6;56,0192606;12,5712043
+DK;DK1133;, Helsingør Stengade;;;;6;56,0344178;12,6071513
+DK;DK1134; Svendborg, Svendborg Storcente;Vestergade 167F;5700;Svendborg;4;55,063661;10,588746
+DK;DK1135; Lemvig, Vestergade;Vestergade 8-10;7620;Lemvig;1;56,5501526;8,3077494
+DK;DK1136; Gilleleje, Peter Fjelstrups Vej;Stürups Plads 1, butik 1216;3000;Helsingør;6;56,1243345;12,3054677
+DK;DK1137; Vanløse, Godthåbsvej;Godthåbsvej 197;2720;Vanløse;8;55,6923131;12,5135196
+DK;DK1138; Nørreport;Frederiksborggade 15;1360;København;7;55,6835592;12,5713904
+DK;DK1139; Ølby, Ølby Centret;Ølbycenter 3;4600;Køge;5;55,4792521;12,1729401
+DK;DK1141; Vejle, Bryggen;Søndertorv 2;7100;Vejle;4;55,7052588;9,5280637
+DK;DK1142; Hellerup - Waterfront;Tuborg Havnevej 4-8;2900;Hellerup;8;55,7257883;12,5770238
+DK;DK1143; Hirtshals, Jørgen Fibigersgad;Jørgen Fibigersgade 25;9850;Hirtshals;1;57,5907534;9,9573279
+DK;DK1145; Rødovre, Rødovre Port;Rødovre Port 22A;2610;Rødovre;7;;
+DK;DK1146; Frederiksberg, Borups Allé;;2300;København;8;;
+DK;DK1149; Åbyhøj, Silkeborgvej;Silkeborgvej 263;8230;Åbyhøj;2;;
+DK;DK1150; Dragør, Kongevejen;Kongevejen 18A;2791;Dragør;5;;
+DK;DK1152; Farsø, Farsø Rådhuscenter;;9900;Frederikshavn;1;;
+DK;DK1154; Silkeborg, Nørrevænget;Viborgvej 16;8600;Silkeborg;3;;
+NO;NO1001;Normal Kristiansand, Sørlandssenteret;Barstølveien 29-35;4636;Kristiansand;1;58,1788144;8,1324512
+NO;NO1002;Normal Kristiansand, Markensgate;Markensgate 30 AS, (2)Gnr. 150 bnr.;4611;Kristiansand kommune;1;58,1449613;7,9922628
+NO;NO1003;Normal Oslo, Torggata;Torggata 2-6;181;Oslo;2;59,9138183;10,7449315
+NO;NO1004;Normal Stavanger, AMFI Madla;Madlakrossen 9, lejemål 118 og 118B;4042;Hafrsfjord;9;58,9525089;5,6778814
+NO;NO1005;Normal Jessheim, Jessheim Storsenter;Furusetgata 10;2050;Jessheim;7;60,142873;11,1698221
+NO;NO1006;Normal Sandnes, Kvadrat Senter;Gamle Stokkav 1, Lokale S250, plan 2;4313;Sandnes;9;58,8763659;5,7201553
+NO;NO1007;Normal Bergen, Sartor;Sartorvegen 12;5353;Straume;3;60,3583747;5,1240572
+NO;NO1008;Normal Drammen, Magasinet Senter;Nedre Storgate 6, Lejemål RI2205, plan 2;3015;Drammen;11;59,7428867;10,2037398
+NO;NO1009;Normal Bergen, Oasen Kjøpesenter;Folke Bernadottesvej 52, plan 1;5147;Fyllingsdalen;3;60,3490496;5,288793
+NO;NO1010;Normal Sandnes, AMFI Vågen;Vågsgata 33, lejemål 121 + 114B, plan 1;4306;Sandnes;9;58,8516408;5,7364612
+NO;NO1011;Normal Stathelle, ALTI Brotorvet;Gangveien 10;3960;Stathelle;5;59,0456007;9,6924131
+NO;NO1012;Normal Hamar, Maxi Storsenter;Aslak Boltsgate 48;2316;Hamar;7;60,7986656;11,0445896
+NO;NO1013;Normal Orkanger, AMFI Orkanger;Orkanger, Amfi Orkanger;7300;Orkanger;4;63,3075572;9,8295018
+NO;NO1014;Normal Tromsø, Jekta Storsenter;Karlsøyvegen 12;9051;Tromsø;8;69,6745651;18,9261899
+NO;NO1015;Normal Stavanger, Klubbgata Sentrum;Klubgata 9;4013;Stavanger;9;58,9705596;5,7328833
+NO;NO1016;Normal Steinkjer, AMFI Steinkjer;Sjøfartssgata 2, lokale 243+244;7714;Steinkjer;4;64,010635;11,4900738
+NO;NO1017;Normal Mo i Rana, AMFI Mo i Rana;Ole Tobias Olsensgate 22. Lokale 101;8622;Mo i Rana;8;66,3111143;14,1325822
+NO;NO1018;Normal Storgata, Tromsø;Storgata 46/50;9008;Tromsø;8;69,6482641;18,9516887
+NO;NO1019;Normal Oslo, Grensen;Grensen 17, 1. sal;159;Oslo;2;59,9143189;10,7402813
+NO;NO1020;Normal Bergen, Xhibition Kjøpesenter;Småstrandgaten 3;5014;Bergen;3;60,3927311;5,324161
+NO;NO1021;Normal Karmsund, Oasen Storsenter;Austbøvegen 16, lok. 174;5542;Karmsund;3;59,3784289;5,3034325
+NO;NO1022;Normal Oslo, Linderud Senter;Erich Mogensønsvei 38;594;Oslo;11;59,9429606;10,8331399
+NO;NO1023;Normal Bergen, Bergen Storsenter;Strømgaten 8;5015;Bergen;3;60,3893462;5,3304242
+NO;NO1024;Normal Mandal, ALTI Mandal;Skarvøyveien 55;4517;Mandal;1;58,0290434;7,4586524
+NO;NO1025;Normal Stord, AMFI Stord;Hamnegata 11;5411;Stord;3;59,7784874;5,4970204
+NO;NO1026;Normal Oslo, Stovner Senter;Stovner Senter 3, lok. 2047, Postboks 128;985;Oslo;11;59,9608868;10,9228608
+NO;NO1027;Normal Bergen, Åsane Storsenter;Åsane Storsenter 42;5116;Bergen;3;60,4647338;5,3218785
+NO;NO1028;Normal Strømmen, Strømmen Storsenter;Støperiveien 5;2010;Strømmen;7;59,9479565;11,0049732
+NO;NO1029;Normal Frederikstad, Nygaardsgata;Nygaardsgata 49-51;1607;Fredrikstad;6;59,2130041;10,9353585
+NO;NO1030;Normal Bergen, Lagunen Storsenter;Lagunevn. 1;5239;Rådal;3;60,2972147;5,3265816
+NO;NO1031;Normal Arendal, ALTI Arendal;Vesterveien 4;4836;Arendal;1;58,4593134;8,7602597
+NO;NO1032;Normal Rygge, Rygge Storsenter;Carlbergveien 2;1526;Moss;6;59,4155761;10,6799426
+NO;NO1033;Normal Raufoss, AMFI Raufoss;Storgata 49, lok. 118;2830;Raufoss;7;60,7288406;10,6122503
+NO;NO1034;Normal Ålesund, AMFI Moa;Langelandsveien 25, MOA SYD 1. Etasje, syd;6010;Ålesund;10;62,4652799;6,3494615
+NO;NO1035;Normal Ski, Ski Storsenter;Jernbanesvingen 6;1400;Ski;6;59,7168426;10,8342672
+NO;NO1036;Normal Moss, AMFI Moss;Dronningens gate 3-7;1530;Moss;6;59,4362788;10,6627338
+NO;NO1037;Normal Kristiansand, AMFI Vågsbygd;Kirsten Flagstadsvei 32, lokale 102;4621;Vågsbygd;1;58,1247808;7,9508919
+NO;NO1038;Normal Drammen, Liertoppen Senter;Drammensveien 201, lokale nr. 1040;3420;Lierskogen;11;59,8084195;10,2962913
+NO;NO1039;Normal Porsgrunn, Down Town Senter;Storgata 70;3921;Porsgrunn;5;59,1377802;9,6392042
+NO;NO1040;Normal Oslo, Senter Syd;Lofsrudveien 6;1281;Oslo;6;59,8483159;10,8274176
+NO;NO1041;Normal Elverum, AMFI Elverum;Torggaten 3;2408;Elverum;7;60,8852132;11,5600721
+NO;NO1042;Normal Trondheim, Nordre Gate sentrum;Nordre gate 6;7011;Trondheim;4;63,4313082;10,3944587
+NO;NO1043;Normal Larvik, AMFI Larvik;Jegersborggata 4;3256;Larvik;5;59,0533807;10,0267711
+NO;NO1044;Normal Drammen, Gulskogen Senter;Guldlisten 35 lokale nr. 167;3048;Drammen;11;59,7423275;10,155522
+NO;NO1045;Normal Oslo, Triaden Storsenter;Gamleveien 88;1476;Rasta;11;59,9193964;10,9510796
+NO;NO1046;Normal Rykkinn, Rykkinn Senter;Munins vei 1;1348;Rykkinn;5;59,9240288;10,4830662
+NO;NO1047;Normal Frederikstad, Østfoldhallene;Dikeveien 28;1661;Rolvsøy;6;59,2517457;10,9908331
+NO;NO1048;Normal Kleppe, ALTI Jærhagen;Solavegen 25;4352;Kleppe;9;58,7793108;5,6242516
+NO;NO1049;Normal Askøy, AMFI Askøy;Kleppevegen 110;5308;Kleppestø;3;60,4224052;5,2009974
+NO;NO1050;Normal Råholt, AMFI Eidsvoll Senter;Gladbakkvegen 1, lokal 103-104;2070;Råholt;7;60,2810277;11,171706
+NO;NO1051;Normal Voss, AMFI Voss;Hardangervegen 25;5700;Voss;3;60,6287126;6,4334108
+NO;NO1052;Normal Bergen, Vestkanten Storsenter;Loddefjordveien 2;5171;Loddefjord;3;60,3616647;5,2325989
+NO;NO1053;Normal Namsos, Amfi Namsos;Søren R. Thornæs veg 19;7800;Namsos;4;64,467443;11,5020481
+NO;NO1054;Normal Sandvika, Sandvika Storsenter;Brodtkorbsgate 7 lokale nr. 0105;1338;Sandvika;11;59,890096;10,5182254
+NO;NO1055;Normal Oslo, Storo Storsenter;Vitaminveien 7-9 lokale nr. 0124;485;Oslo;2;59,9470258;10,7725253
+NO;NO1056;Normal Kristiansund, ALTI Storkaia B;Arnulf Øverlands gate 2-8;6509;Kristiansund;10;63,1102153;7,7301649
+NO;NO1057;Normal Ås, Vinterbro Senter;Sjøskogenveien 7, lokale 133;1407;Vinterbro;6;59,7394231;10,7681565
+NO;NO1058;Normal Tønsberg, Farmandstredet;Jernbanegaten 1D, lok. C102;3110;Tønsberg;5;59,2694166;10,4097255
+NO;NO1059;Normal Alta, AMFI Alta;Markedsgata 21-25, lok. 155;9505;Alta;8;69,9653619;23,2697193
+NO;NO1060;Normal Hønefoss, Kuben;Kong Rings gate 1;3510;Hønefoss;5;60,1648985;10,2515515
+NO;NO1061;Normal Larvik, Alti Nordbyen;Nordbyen Yttersøveien 2, lokale 201+202;3274;Larvik;5;59,0684877;10,0450773
+NO;NO1062;Normal Levanger, Magneten Kjøbesente;Moafjæra 14, lokal 35-36;7606;Levanger;4;63,7371726;11,2713795
+NO;NO1063;Normal Lillestrøm, Lillestrøm Torv;Torvet 6;2000;Lillestrøm;7;59,9560629;11,0445091
+NO;NO1064;Normal Sandefjord, Hvaltorvet;Torget 7;3210;Sandefjord;5;59,1302776;10,2244143
+NO;NO1065;Normal Kløfta, Romerikssenteret;Trondheimsvegen - Kløfta 86;2040;Kløfta;7;60,0762065;11,1337758
+NO;NO1066;Normal Oslo, Bogstadveien;Bogstadveien 1;355;Oslo;2;59,9241828;10,7234217
+NO;NO1067;Normal Lørenskog, Metro Senter;Bibliotekgata 30;1473;Lørenskog;11;59,9276762;10,955534
+NO;NO1068;Normal Haugesund, Amanda Senter;Longhammarvegen 27;5536;Haugesund;3;59,3947657;5,3311572
+NO;NO1069;Normal Trondheim, Sirkus Shopping;Falkenborgvegen 1;7044;Trondheim;4;63,4357658;10,4549586
+NO;NO1070;Normal Oslo, Manglerud Senter;Plogveien 6;679;Oslo;11;59,8974107;10,8114906
+NO;NO1071;Normal Oslo, Kolbotn Torg;Strandliveien 4;1410;Kolbotn;6;59,8148461;10,8028821
+NO;NO1072;Normal Førde, ALTI Førde;Storehagen 9;6800;Førde;10;61,4523766;5,8496225
+NO;NO1073;Normal Egersund, AMFI Eikunda;Fabrikkgaten 2;4370;EGERSUND;9;58,4531068;6,0017103
+NO;NO1074;Normal Flå, Bjørneparken Kjøpesenter;Bjørneparken Kjøpesenter;3539;Flå;5;60,4312705;9,4557951
+NO;NO1075;Normal Kongsberg, Stortorvet;Storgata 28;3611;Kongsberg;5;59,6702447;9,6493847
+NO;NO1076;Normal Bergen, Laksevåg Senter;Kringsjåveien 89;5163;Laksevåg;3;60,3900851;5,2810835
+NO;NO1077;Normal Bodø, City Nord;Stormyra;8008;Bodø;8;67,2788488;14,4104574
+NO;NO1078;Normal Sogndal, AMFI Sogningen;Hovevegen 6;6856;Sogndal;10;61,2321321;7,1009136
+NO;NO1079;Normal Sarpsborg, Storbyen Senter;Roald Amundsendsgate 36;1723;Sarpsborg;6;59,2840323;11,1059278
+NO;NO1080;Normal Gjøvik, CC Gjøvik;Jernbanesvingen 6;2821;Gjøvik;7;60,7989292;10,6905055
+NO;NO1081;Normal Oslo, Eugenies Gate;Eugenies Gate 2;168;Olso;2;59,9278351;10,7301218
+NO;NO1082;Normal Farsund, AMFI Farsund;Vestersiden 1;4550;Farsund;1;58,0963598;6,8023111
+NO;NO1083;Normal Molde, Moldetorget;Torget 1;6413;Molde;10;62,7371049;7,1564151
+NO;NO1084;Normal Bø i Telemark, Bøsenteret;Stasjonsvegen 28;3800;Bø i Telemark;5;59,4112785;9,0689011
+NO;NO1085;Normal Oslo, Oslo City;Stenersgata 1;50;Oslo;2;59,9126881;10,7504313
+NO;NO1086;Normal Stjørdal, Torgkvartale;Stokmovegen;7500;Stjørdal;4;63,469067;10,9223048
+NO;NO1087;Normal Skien, Herkules Senter;Ulefossvegen 32;3730;Skien;5;59,1967232;9,6003642
+NO;NO1088;Normal Fornebu, Fornebu S;Snarøyveien 55;1364;Fornebu;2;59,8937917;10,6176979
+NO;NO1089;Normal Oslo, Byporten;Jernbanetorget 6;154;Oslo;2;59,9114598;10,7509246
+NO;NO1090;Normal Tiller, City Syd;Østre Rosten 28-30;7075;Tiller;4;63,3620117;10,3758457
+NO;NO1091;Normal Trondheim, City Lade;Haakon VII´s gate 9;7041;Trondheim;4;63,443405;10,443254
+NO;NO1092;Normal Asker, Trekanten;Knud Askers Vei 26;1383;Asker;11;59,8372583;10,4324293
+NO;NO1093;Normal Arendal, Alti Harebakken;Langsæveien 5;4846;Arendal;1;58,4744666;8,7436553
+NO;NO1094;Normal Halden, Tista Senter;Walkers Gate 4;1771;Halden;6;59,1213671;11,3793788
+NO;NO1095;Normal Harstad, AMFI Kanebogen;Skillevegen 5;9411;Harstad;8;68,779461;16,5639956
+NO;NO1096;Normal Bergen, Horisont;Myrdalsvegen 2;5130;Nyborg;3;60,4697413;5,3195796
+NO;NO1097;Normal Drammen, Buskerud Storsenter;Sandsgata 20;3055;Krokstadelva;11;59,7564326;9,9967072
+NO;NO1098;Normal Søgne,Tangvall Arena;Senterumsveien 35;4640;Søgne;1;58,0967608;7,8129971
+NO;NO1099;Normal Lillehammer, Strandtorget;Strandpromenaden 85;2609;Lillehammer;7;61,1147691;10,4517259
+NO;NO1100;Normal Horten, Sjøsiden;Teatergata 6;3187;Horten;5;59,4148791;10,4845103
+NO;NO1101;Normal Lyngdal, Sentrumsgården;Torggata 9;4580;Lyngdal;1;58,1381199;7,0675373
+NO;NO1102;Normal Grimstad, Oddensenteret;Odden 1;4876;Grimstad;1;58,3380256;8,5909997
+NO;NO1103;Normal Slemmestad, Rortunet;Odalsveien 64;3470;Slemmestad;11;59,7784052;10,4842944
+NO;NO1105;Normal Bryne, M44;Jupitervegen 2;4340;Bryne;9;58,7358041;5,6382711
+NO;NO1106;Normal Trondheim, Solsiden;Beddingen 10;7042;Trondheim;4;63,4352424;10,409932
+NO;NO1107;Normal Stavanger, Tvedtsenteret;Lagerveien 2;4033;Stavanger;9;58,8958079;5,6989841
+NO;NO1108;Normal Knarvik, Knarvik Senter;Kvernhusmyrane 33;5914;Isdalstø;3;60,5481392;5,2845239
+NO;NO1109;Normal Notodden, Tuven Senteret;Tuvenbøygen 2;3676;Notodden;5;59,5662495;9,218915
+NO;NO1110;Normal Oslo, Gunerius;Storgata 32;184;Oslo;2;59,9140889;10,7515646
+NO;NO1111;Normal Oslo, Holmlia Senter;Holmliaveien 75;1255;Oslo;6;59,834206;10,7935465
+NO;NO1112;Normal Ålesund, Ålesund Storsenter;Grimmergata 1;6002;Ålesund;10;62,4725667;6,1547615
+NO;NO1113;Normal Trondheim, Byhaven Kjøpesenter;Olav Tryggvasons gate 28;7011;Trondheim;4;63,4336445;10,3938415
+NO;NO1115;Normal Finnsnes, AMFI Finnsnes;Storgata 7;9300;Finnsnes;8;69,2288905;17,9767416
+NO;NO1116;Normal Narvik, Narvik Storsenter;Kongensgate 66;8514;Narvik;8;68,4414472;17,4340847
+NO;NO1117;Normal Oslo, AMFI Ullevaal;Sognsveien 75 - 77;855;Oslo;2;59,94966;10,732198
+NO;NO1118;Normal Sortland, Sortland Storsenter;Strandgata 26;8400;Sortland;8;68,6939503;15,4143435
+NO;NO1119;Normal Nesoddtangen, Tangen Senter;Vestveien 51;1450;Nesoddtangen;6;59,8559244;10,6586502
+NO;NO1120;Normal Vestby, Vestby Storsenter;Senterveien 6;1540;Vestby;6;59,6029641;10,7405196
+NO;NO1121;Normal Stavanger, Kilden Kjøpesenter;Gartnerveien 15;4016;Stavanger;9;58,9470682;5,7383122
+NO;NO1122;Normal Grorud, Grorud Senter;Bergensveien 2;963;Oslo;11;59,9601309;10,8793482
+NO;NO1123;Normal Trondheim, Trondheim Torg;Kongens Gate 9;7013;Trondheim;4;63,4302858;10,391373
+NO;NO1124;Normal Vennesla, Atrium;Sentrumsvegen 63;4700;Vennesla;1;58,2716789;7,9670258
+NO;NO1125;Normal Drøbak, AMFI Drøbak;Holterveien 3;1440;Drøbak;6;59,6737114;10,6552151
+NO;NO1126;Normal Lillesand, Lillesand Senter;Senterveien 30;4790;Lillesand;1;58,2618553;8,3943559
+NO;NO1127;Normal Sandnes, Maxi Sandnes;Gravarsveien 7;4306;Sandnes;9;58,8479129;5,7379382
+NO;NO1128;Normal Tvedestrand, Grisen Kjøpesenter;Industriveien 8;4900;Tvedestrand;1;58,6289387;8,913506
+NO;NO1129;Normal Jørpeland, Ryfylke Storsenter;Rådhusgaten 22;4100;Jørpeland;9;59,0207097;6,0377853
+NO;NO1130;Normal Arendal, Krøgenes;Kystveien 244;4841;Arendal;1;58,4752356;8,8133478
+NO;NO1131;Normal Tiller, Tiller Torget;Ivar Lykkes veg 3;7075;Tiller;4;63,3580457;10,371661
+NO;NO1132;Normal Skien, Arkaden;Bruene 1;3724;Skien;5;;
+NO;NO1133;Normal Sunndal, Alti Sunndal;Sunndalsveien 17;6600;Sunndalsøra;10;62,6723738;8,5652478
+NO;NO1134;Normal Drammen, CC Drammen;Tomtegata 36;3012;Drammen;11;59,7413889;10,2232494
+NO;NO1135;Normal Lillestrøm, Skedsmo Senter;Furuholtet 1;2020;Skedsmokorset;7;60,0008314;11,0405722
+NO;NO1136;Normal Kragerø, Alti Kragerø;Kjølebrøndsveien 1;3766;Sannidal;1;58,8950658;9,282838
+NO;NO1137;Normal Bodø, Koch Kjøpesenter;Storgata 5;8006;Bodø;8;67,2842075;14,3773706
+NO;NO1138;Normal Verdal, AMFI Verdal;Jernbanegata 11;7650;Verdal;4;63,7916217;11,4844723
+NO;NO1139;Normal Harstad, Alti Harstad;Fjordgata 1;9405;Harstad;8;68,7989195;16,5445887
+NO;NO1140;Normal Tromsø, AMFI Pyramiden;Solstrandveien 47;9020;Tromsdalen;8;69,6402228;18,9717121
+NO;NO1141;Normal Fauske, Fauske Handelspark;Terminalveien 5;8208;Fauske;8;67,2679014;15,3969575
+NO;NO1142;Normal Tynset, Alti Tynset;Brugata 1;2500;Tynset;7;62,2758427;10,7775624
+NO;NO1143;Normal Otta, AMFI Otta;Johan Nygårds gate 12;2670;Otta;7;61,7715116;9,5380459
+NO;NO1144;Normal Ulsteinvik, AMFI Ulsteinvik;Saunesvegen 10;6065;Ulsteinvik;10;;
+NO;NO1145;Normal Oslo, CC Vest;Lilleakerveien 16;283;Oslo;2;59,9175509;10,6352292
+NO;NO1146;Normal Oslo, Tveita Senter;Tvetenveien 150;671;Oslo;11;59,91409;10,8416724
+NO;NO1147;Normal Rørvik, AMFI Rørvik;Strandgata 13;7900;Rørvik;4;64,8611111;11,2386162
+NO;NO1148;Normal Svolvær, Alti Svolvær;Lofotgata 33;8300;Svolvær;8;;
+NO;NO1149;Normal Brumunddal, Mølla Storsenter;Brugata 16;2380;Brumunddal;7;60,8846929;10,9411682
+NO;NO1150;Normal Stavanger, Alti Tasta;Tastatunet 1;4027;Stavanger;9;58,9843869;5,6908958
+NO;NO1151;Normal Eiksmarka, Eiksmarka Senter;Niels Leuchs vei 50;1359;Eiksmarka;11;59,9473929;10,622103
+NO;NO1152;Normal Oslo, Karl Johans Gate 6;Karl Johans Gate 6;154;Oslo;2;59,9112844;10,7459053
+NO;NO1153;Normal Sola, Solakrossen;Solakrossen 13;4050;Sola;9;58,8881302;5,6636976
+NO;NO1154;Normal Husnes, Husnes Storsenter;Sentrumsvegen 15;5460;Husnes;3;59,8619168;5,7524502
+NO;NO1155;Normal Askim, Askimtorget;Rådhusgata 6;1830;Askim;6;59,5835822;11,1655195
+NO;NO1156;Normal Åkrehamn, AMFI Åkrehamn;Tungarden 1;4270;Åkrehamn;3;59,264469;5,1927612
+NO;NO1157;Normal Gran, Smietorget;Smiegata 17;2750;Gran;5;;
+NO;NO1158;Normal Nærbø, AMFI Nærbø;Torggata 2;4365;Nærbø;9;58,6681613;5,6409879
+NO;NO1159;Normal Elverum, Kremmertorget;Kirkeveien 4;2406;Elverum;7;60,8800287;11,5500841
+NO;NO1160;Normal Røyken, Røyken Senter;Bråsetveien 3;3440;Røyken;11;59,7464629;10,3918293
+NO;NO1161;Normal Volda, Spinneriet;Industrigata 12;6100;Volda;10;62,1444153;6,0695397
+NO;NO1162;Normal Stryn, Stryn Torg;Tonningsgata 4;6783;Stryn;10;61,9034022;6,7164074
+NO;NO1163;Normal Mysen, Mysen Senter;Smedgaten 30;1850;Mysen;6;59,5533348;11,3296778
+NO;NO1164;Normal Stjørdal, Hellsenteret;Sandfærhus 24;7502;Stjørdal;4;63,44787;10,9080719
+NO;NO1165;Normal Bergen, Øyrane Torg;Ådnavegen 63;5260;Indre Arna;3;;
+NO;NO1166;Normal Furuset, Furuset Senter;Trygve Lies Plass 1;1051;Oslo;11;59,9409602;10,8957796
+NO;NO1167;Normal Sørumsand, Sørumsandvegen;Sørumsandvegen 65-69;1920;Sørumsand;7;;
+NO;NO1168;Normal Orkanger, AMFI Oti;Tverradkomsten 60;7300;Orkanger;4;63,3057324;9,8364356
+NO;NO1169;Normal Haugesund, Markedet;Skåregata 92;5528;Haugesund;3;59,4109477;5,2709895
+NO;NO1170;Normal Bergen, AMFI Nesttun;Østre Nesttunvei 16;5221;Nesttun;3;60,3171297;5,3519037
+NO;NO1171;Normal Gol, Kremmartunet;Sentrumsvegen 116;3550;Gol;5;;
+NO;NO1172;Normal Nesbru, Holmen Senter;Vogellund 6;1394;Nesbru;11;;
+NO;NO1173;Normal Oslo, Oppsal Senter;Haakon Tveters vei 88;686;Oslo;11;;
+NO;NO1174;Normal Ottestad, Vikasenteret;Vikavegen 15;2312;Bekkelaget;7;;
+NO;NO1175;Normal Flisa, Flisa Stormarked;Kaffegata 23;2270;Flisa;7;;
+NO;NO1176;Normal Sandnessjøen, AMFI Skansen;Torolv Kveldulvsons Gate 24;8800;Sandnessjøen;8;;
+NO;NO1178;Normal Brønnøysund, Havnesenteret;Storgata 58;8900;Brønnøysund;8;;
+NO;NO1180;Normal Bremnes, HSD-Senteret;Svortlandsvegen 79;5430;Bremnes;3;;
+NO;NO1183;Normal Surnadal, Alti Surnadal;Øravegen 4;6650;Surnadal;10;;
+NO;NO1184;Normal Kristiansund, Alti Futura;Industriveien 17;6517;Kristiansund;10;;
+NO;NO1185;Normal Kirkenes, Amfi Kirkenes;Storgata 2;9900;Kirkenes;8;;
+NO;NO1186;Normal Drammen, Torget Vest;Rådhusgaten 2;3016;Drammen;11;;
+NO;NO1187;Normal Geilo, Amfi Geilo;Vesleslåttvegen 19;3580;Geilo;5;;
+NO;NO1189;Normal Trysil, Trysilsenteret;Storvegen 2;2420;Trysil;7;;
+NO;NO2002;Normal Oppdal, Aunasenteret;Sunndalsvegen 3;7340;Oppdal;10;62,5936951;9,6885755
+SE;SE0101;Malmö, Emporia;Hyllie Boulevard 19;21532;Malmö;3;55,5643831;12,9713469
+SE;SE0102;Malmö, Mobilia Shopping Centre;Per Albin Harsons Väg 40;21432;Malmö;3;55,5820637;13,0023955
+SE;SE0103;Malmö, Triangeln;Triangeln, Entreplan K27;21146;Malmö;3;55,5951726;12,9987412
+SE;SE0104;Helsingborg, Väla;Våla Centrum, Marknadsvâgen 9;26036;Ödåkra;3;56,0915317;12,7547911
+SE;SE0105;Stockholm, Nacka;Forumvägen 14;13153;Nacka;2;59,3107719;18,1617689
+SE;SE0106;Lund, Nova;Företagsvägen 10;22761;Lund;3;55,7145457;13,157891
+SE;SE0107;Solna, Solna Centrum;Solna Centrum, lok. 1421 3251b;17145;Solna;2;59,3602557;17,9910355
+SE;SE0108;Kista, Kista Galleria;Danmarksgatan 42;16491;Kista;4;59,4030163;17,9426747
+SE;SE0109;Norrköping, Mirum Galleria;Lidaleden 56, lok. 0118;60359;Norrköping;6;58,5727551;16,2081684
+SE;SE0110;Helsingborg, Stenbrocken;Kullergaten 12, lok. 11;25220;Helsingborg;3;56,0479107;12,691788
+SE;SE0111;Partille, Allum;Kyrktorget 19, 301 hus c, plan 3;43333;Partille;1;57,7392768;12,1039231
+SE;SE0112;Kalmar, Baronen;Skeppsbrogatan 12;39231;Kalmar;5;56,6608483;16,3629922
+SE;SE0113;Malmö, Söndergaten;Södergatan 22;21134;Malmö;3;55,6044084;12,9991732
+SE;SE0114;Kristianstad, C4 Shopping;Fundationsvägen 17;29150;Kristianstad;5;56,0238908;14,1940827
+SE;SE0115;Mölndal, Mölndal Galleria;Brogatan 17;43130;Mölndal;1;57,6548993;12,0129571
+SE;SE0116;Västerås, Vasagatan;Hantverkargatan 5;72212;Västerås;7;59,6105089;16,5431561
+SE;SE0117;Örebro, Marieberg Galleria;Säljarevägen 1 lok. 105;70236;Örebro;1;59,2172708;15,1352512
+SE;SE0118;Västerås, Erikslund Shopping C.;Krankroksgatan 17 B 1108;72138;Västerås;7;59,6091275;16,4529289
+SE;SE0119;Borlänge, Kupolen;Kupolen 53;78170;Borlänge;7;60,4791689;15,4054318
+SE;SE0120;Sollentuna, Sollentuna Cent.;Sollentunavägen 163 C;19147;Sollentuna;4;59,4285101;17,9490322
+SE;SE0121;Kungälv, Konghälla Shopping;Älvebacken 37, plan 2, lok. B3103;44248;Kungälv;1;57,8722988;11,9657537
+SE;SE0122;Trelleborg, Valengallerian;Algatan 16;23142;Trelleborg;3;55,3742852;13,1558099
+SE;SE0123;Uppsala, S:t Per Gallerian;Dragarbunnsgatan 21;75320;Uppsala;7;59,8606828;17,6352659
+SE;SE0124;Helsingborg, Söder Galleria;Våla Centrum, Marknadsvâgen 9;26036;Ödåkra;3;56,0402417;12,6992644
+SE;SE0125;Jönköping, Östra Storgatan;Östra Storgatan 19 B;55320;Jönköping;5;57,7822722;14,17163
+SE;SE0126;Farsta, Farsta Centrum;Kroppaplan 10 lok. 359;12347;Farsta;2;59,2387941;18,0877929
+SE;SE0127;Södertälje, Telgehuset;Storgatan 3-5;15172;Södertälje;6;59,1956622;17,6251219
+SE;SE0128;Trollhättan, Etage Galleria;Ladugårdsvägen 14, 30-202B;46170;Trollhättan;1;58,3125896;12,3069982
+SE;SE0129;Karlstad, Drottninggatan;Drottninggatan 11;65225;Karlstad;1;59,3791072;13,5007251
+SE;SE0130;Uppsala, Gränbystaden;Gränbystaden Galleria Marknadsgatan 1;75460;Uppsala;7;59,8770547;17,6556424
+SE;SE0131;Upplands Väsby, Väsby Centrum;Dragonvägen 86;19433;Upplands Väsby;4;59,5185671;17,9100125
+SE;SE0132;Skärholmen, Skärholmen Centrum;Storholmsgatan 21;12748;Skärholmen;2;59,2743416;17,9060017
+SE;SE0134;Töcksfors, Töcksfors Center;Älverudsvägen 1;67010;Töcksfors;1;59,5065425;11,8428324
+SE;SE0135;Täby, Täby Centrum;Stora Marknadsvägen 15;18334;Täby;4;59,4447898;18,0712394
+SE;SE0136;Tyresö, Tyresö Centrum;Marknadsgränd 32;13540;Tyresö;6;59,2433754;18,22836
+SE;SE0137;Göteborg, Frölunda Torg;Kyrktorget 19, 301 hus c, plan 3;43333;Partille;1;57,6518602;11,9093957
+SE;SE0138;Stockholm, Gallerian;Hamngatan 37;11153;Stockholm;2;59,3312229;18,0652789
+SE;SE0139;Göteborg, Nordstan;Postgatan 47;41106;Göteborg;1;57,7084155;11,9678787
+SE;SE0140;Haninge, Haninge Centrum;Runstensvägen 1;13646;Handen;6;59,1687182;18,1380435
+SE;SE0141;Uddevalla, Torp Köpcentrum;Torp Köpcentrum;45176;Uddevalla;1;58,3542328;11,8099436
+SE;SE0142;Vällingby, Vällingby Centrum;Vällingbygången 17;16265;Vällingby;4;59,3625731;17,871888
+SE;SE0143;Charlottenberg;Helga Görlins Gate 1;67332;Charlottenberg;1;59,8812649;12,2874812
+SE;SE0144;Halmstad Hallarna;;;Halmstad;5;56,6576915;12,9051867
+SE;SE0145;Eskilstuna, Cityhuset;Kungsgatan 24;;Eskilstuna;7;59,3718983;16,5082415
+SE;SE0146;Växjö, Storgatan;Storgatan 9;;Växjö;5;56,8785639;14,8043522
+SE;SE0147;Kungsbacka, Kungsmässan;Borgmästaregatan 5;;Kungsbacka;5;57,4926827;12,071793
+SE;SE0148;Stockholm, Liljeholmstorget;Nybohovsbacken 38;11763;Stockholm;2;59,3093703;18,0202274
+SE;SE0149;Skövde, Storgatan;Storgatan 14;;Skövde;1;58,3894297;13,8424309
+SE;SE0150;Stockholm, Götgatan;Götgatan 26;;Stockholm;2;59,3179607;18,069211
+SE;SE0151;Stockholm, Klarabergsgatan;Klarabergsgatan 56;;Stockholm;2;59,3318081;18,0579079
+SE;SE0152;Halmstad, Storgatan;Prästvägen 1;;Halmstad, Storgatan 20;5;56,6745996;12,8570408
+SE;SE0153;Valbo Köpcentrum;;;Valbo;7;60,6339414;16,9921269
+SE;SE0154;Örebro, Krämaren;Drottninggatan 27;;Örebro;1;59,2689094;15,2075285
+SE;SE0155;Skellefteå, Citykompagniet;Nygatan 50;93131;Skellefteå;8;64,7500748;20,9521967
+SE;SE0156;Luleå, Smedjan;Storgatan 36;;Luleå;8;65,5839584;22,1510364
+SE;SE0157;Sundsvall, Birsta City;Gesällvägen 1;;Sundsvall;8;62,4452378;17,3312388
+SE;SE0158;Växjö, Grand Samarkand;Hejaregatan 32;;Växjö;5;56,8846116;14,7641244
+SE;SE0159;Nacka, Sickla Galleria;Simbagatan 14;;Nacka;2;59,3057371;18,1227367
+SE;SE0160;Stockholm, Jakobsbergs Centrum;;;Järfälla;4;59,4235325;17,8347612
+SE;SE0161;Malmø, Burlöv Center;Burlöv Center, Kronetorpsvägen 2;;Malmö;3;55,6398416;13,0821274
+SE;SE0162;Östersund, Prästgatan;Præstgatan 29;;Östersund;8;63,1812043;14,6286507
+SE;SE0163;Stockholm, Drottninggatan 37;Drottninggatan 37;;Stockholm;2;59,3317269;18,0609451
+SE;SE0164;Stockholm, Mörby Centrum;Golfvägen 8;;Danderyd;4;59,3978746;18,0340708
+SE;SE0165;Stockholm, Fältöversten;Karlaplan 13;;Stockholm;2;59,3397319;18,0890017
+SE;SE0166;Umeå, Avion Shopping;Marknadsgatan 3;;Umeå;8;63,8079515;20,2490455
+SE;SE0167;, Kristianstad galleria Boulevard;Östra Boulevarden 5;;Kristianstad;5;56,0312192;14,1559762
+SE;SE0168;Malmö, Jägersro Center;Jägersrovägen 151;;Malmö;3;55,5700176;13,0564704
+SE;SE0169;Ystad, Stora Östergatan;Stora Östergatan 13;;Ystad;3;55,4302612;13,8203574
+SE;SE0170;Linköping, Tanneforsgatan;Tanneforsgatan 3;;Linköping;2;58,4101937;15,6213426
+SE;SE0171;Stockholm, Kungens Kurva;Modulvägen 2;;Kungens Kurva;2;59,2694881;17,9145403
+SE;SE0172;Falun, Falan Galleria;Falugatan 2;;Falun;7;60,6066535;15,6271955
+SE;SE0173;Stockholm, Sveavägen;Sveavägen 76;;Stockholm;2;59,3400275;18,0575366
+SE;SE0174;Kalmar, Giraffen;Verkstadsgatan 6;;Kalmar;5;56,6703422;16,3368343
+SE;SE0175;Borås, Pallas;Lilla Brogatan 8;;Borås;5;57,7198543;12,9357732
+SE;SE0176;Alingsås, Storken;Kungsgatan 29;;Alingsås;1;57,9297551;12,5334585
+SE;SE0177;Malmö, Kronprinsen Köpcenter;Regementsgatan 50-54;;Malmö;3;;
+SE;SE0178;Norrköping, Domino;Repslagaregatan 12;;Norrköping;6;58,5884244;16,190476
+SE;SE0179;Kvarnen Uppsala;S:t Persgatan 35;;Uppsala;7;;
+SE;SE0180;Umeå, Utopia;Kungsgatan 65;;Umeå;8;63,8258294;20,2648292
+SE;SE0181;Nyköping, Västerport;Västra Storgatan 14;;Nyköping;6;58,7516283;17,0045228
+SE;SE0182;Uppsala, Dragarbruunsgatan;Dragarbrunnsgatan 38-40;75320;Uppsala;7;59,8595243;17,6375786
+SE;SE0183;Signalfabriken Sundbyberg;Sundbybergs Torg 1;;Sundbyberg;4;59,3616694;17,9669733
+SE;SE0184;Karlskrona, Ronnebygatan;Ronnebygatan 47;;Karlskrona;5;56,1620295;15,5851964
+SE;SE0185;Åkersberga;;;Valbo;4;59,4799065;18,2942929
+SE;SE0186;Linköping, I-Huset;Västra Svedengatan 7;;Linköping;2;58,4333166;15,586042
+SE;SE0187;Huskvarna, Rosengallerian;Kungsgatan 23;;Huskvarna;5;57,790826;14,2755948
+SE;SE0188;Uppsala, Gottsunda Centrum;Valthornsvägen 7;;Uppsala;7;59,8103039;17,629623
+SE;SE0189;Österport Visby Gotland;Österväg 6;;Visby;6;57,6375672;18,2994861
+SE;SE0190;Stockholm, Hötorget;Sveavägen 17;;Stockholm;2;59,3346616;18,0610884
+SE;SE0191;Norrtälje, Baldersgatan;Baldersgatan 27D;;Norrtälje;4;59,7670328;18,6926047
+SE;SE0192;Katrineholm;Köpmangatan 17-19;;Katrineholm;6;;
+SE;SE0193;Tumba, Tumba Centrum;Riddarplatsen;;Järfälla;6;59,1997713;17,8255668
+SE;SE0195;Malmø, Hansa City;Stora Nygatan 50-56;;Malmö;3;;
+SE;SE0196;Södertälje, Weda;Wedavägen 1;;Södertälje;6;;
+SE;SE0197;Sandviken, Gallerian Sandvike;Smedsgatan 11;;Sandviken;7;;
+SE;SE0198;Malmö, Rosengård Centrum;Frölichs Väg 1;;Malmö;3;;
+SE;SE0199;Södra Forstadsgatan;Triangeln, Entreplan K27;21532;Malmö;3;55,597338;12,9982114
+SE;SE0200;Stockholm, Lindhagen;Lindhagensgatan 118;;Lindhagen;4;59,3373729;18,0068132
+SE;SE0201;Falkenberg, Nygatan;Nygatan 31;31131;Falkenberg;5;;
+SE;SE0202;Haninge, Port 73;Nynäsvägen 21;;Handen;6;;
+SE;SE0204;Vänersborg, Trenova;Regementsgatan 4C;;Vänersborg;1;;
+SE;SE0205;Stenungsund, Stenungstorg;Östra Köpmansgatan 13B;;Stenungsund;1;;
+SE;SE0207;Solna, Mall of Scandinavia;Stjärntorget 2;;Solna;4;;
+SE;SE0210;Sala, Rådmansgatan;Rådmansgatan 15;;Sala;7;;
+SE;SE0211;Nynäshamn, Sjötelegrafen;Telivägen 2;14941;Nynäshamn;6;;
+SE;SE0212;Avesta, Avesta Galleria;Markustorget 1;;Avesta;7;;
+SE;SE0213;Ludvika, Storgatan;Storgatan 26C;77130;Ludvika;7;;
+SE;SE0215;Gävle, Gallerian Nian;Valbovägen 307-309;;Valbo;8;;
+SE;SE0217;Piteå, Storgatan;Storgatan 64;;Piteå;8;;
+SE;SE0218;Mellerud, Melleruds Handel;Kornsjögatan 1;;Mellerud;1;;
+SE;SE0221;Bålsta, Bålsta Centrum;Centrumstråket 6;74632;Bålsta;4;;
+SE;SE0222;Sundsvall, Storgatan;Storgatan 40;;Sundsvall;8;;
+SE;SE0225;Normal Trollhättan, Odenhuset;Kungsgatan 34;;Trollhättan;1;;
+SE;SE0227;Strömstad, Strömstad Shopping;Oslovägen 50;;Strömstad;1;;
+NL;NL0101;Utrecht, Hoog Cathrije;Gildenkwartier 167/169;;Utrecht;1;52,0920091;5,1091391
+NL;NL0102;Amersfoort, Langestraat;Langestraat 44-46;3811;Amersfoort;1;52,1553026;5,3805254
+NL;NL0103;Leiden, Haarlemmerstraat;Haarlemmerstraat 54;2312;Leiden;1;52,161111;4,4859532
+NL;NL0104;Haarlem, Grote Houtstraat;;2312;Leiden;1;52,3779469;4,6300057
+NL;NL0105;Almere, Stadhuisstraat;Stadhuisstraat 14;;Almere;1;52,3715333;5,216816
+NL;NL0106;Rotterdam, Zuidplein;Zuidplein Hoog 845;3083;Rotterdam;1;51,8862213;4,487671
+NL;NL0107;Amsterdam, Nieuwendijk;Nieuwendijk 118;1012;Amsterdam;1;52,3763289;4,8936284
+NL;NL0108;Groningen, Herestraat;Herestraat 58;;Groningen;1;53,2163022;6,565922
+NL;NL0109;Hoofddorp, Polderplein;Polderplein 220-221;;Hoofddorp;1;52,3029279;4,693032
+NL;NL0110;Tilburg, Heuvelstraat;Heuvelstraat 9-11;;Tilburg;1;51,5571498;5,0867863
+NL;NL0111;Zoetermeer, Stadshart;Promenade 135;;Zoetermeer;1;52,0542756;4,4632459
+NL;NL0112;Groningen, Grote Markt;;3083;Rotterdam;1;53,2189;6,56613
+NL;NL0113;Normal Eindhoven, Rechtestraat;Rechtestraat 50-52;;Eindhoven;1;51,43788;5,47895
+FR;FR0101;Paris, Rosny 2;Centre commercial Rosny 2 Avenue du Général-de-Gaulle;93117;Rosny-sous-Bois;3;48,8806854;2,4750211
+FR;FR0102;Normal Paris, Belle Epine;Centre commercial Belle Epine;94320;Paris;11;48,7547813;2,3702098
+FR;FR0103;Paris, Passage du Havre;Centre commercial Passage du Havre 109, rue Saint-Lazare;75015;Paris;5;48,8753298;2,3251798
+FR;FR0104;Paris, Créteil Soleil;01 Avenue de la France Libre;94012;Créteil;11;48,7813565;2,4527254
+FR;FR0106;Paris, Carré Sénart;3 Allée du Préambule;77127;Lieusaint;11;48,6204062;2,5426854
+FR;FR0107;Lyon, La Part-Dieu;17 rue du Docteur Bouchut;69003;Lyon;12;45,7621095;4,8535165
+FR;FR0108;Lille, Lillenium;;59000;Lille;2;50,6151415;3,0460089
+FR;FR0109;Paris, Mon Grand Plaisir;Rue Pierre Maitre;78370;Plaisir;5;48,826674;1,9575103
+FR;FR0110;Marseille, Avant Cap;Plan de Campagne, CD6;13480;Cabriès;4;43,4218537;5,3600296
+FR;FR0111;Paris, Les 4 Temps;15 Parvis de La Défense;92800;Puteaux;5;48,8910848;2,2369207
+FR;FR0112;Paris, Qwartz;4 Boulevard Gallieni;92390;Villeneuve-la-Garenne;3;48,9261138;2,3279686
+FR;FR0113;Paris, Gare Montparnasse;17 Boulevard de Vaugirard;75015;Paris;1;48,8414142;2,3170266
+FR;FR0114;Calais, Cité Europe;1001 Boulevard du Kent;62902;Coquelles;2;50,9341718;1,808591
+FR;FR0115;Le Havre, Coty;22 Rue Casimir Périer;76600;Le Havre;8;49,4958213;0,1095099
+FR;FR0116;Lyon, Confluence;112 Cours Charlemagne;69002;Lyon;12;45,7410568;4,8161814
+FR;FR0117;Paris, Bay 2;Rue du Général de Gaulle;77090;Collégien;1;48,836703;2,6576901
+FR;FR0118;Paris, Aéroville;;95700;Roissy-en-France;3;48,9912722;2,5197742
+FR;FR0119;Bordeaux, Mérignac;;;;7;44,8300002;-0,6582314
+FR;FR0120;Marseille, Rue Saint-Ferréol;;83000;Poulon;10;43,2931642;5,3765328
+FR;FR0121;Paris, Argenteuil Côté Seine;50 avenue du Maréchal Foch;95100;Argenteuil;3;48,9444792;2,2511922
+FR;FR0122;Paris, O'Parinor;Boulevard André Citroën;93600;Aulnay-sous-Bois;3;48,9585958;2,4832895
+FR;FR0123;Paris, Blvd. Saint Michel;5 Boulevard Saint-Michel;93600;Paris;1;48,8525525;2,3417853
+FR;FR0124;Besançon, Chateaufarine;;;;6;47,2266787;5,9765707
+FR;FR0126;Grenoble, Grand Place;55 Grand Place;38100;Grenoble;12;45,1578425;5,7300238
+FR;FR0127;Chartres, Rue de la Tonnellerie;21 Rue de la Tonnellerie;28000;Chartres;5;48,4442267;1,4846931
+FR;FR0128;Rennes, Colombia;;;;8;48,1050045;-1,6836429
+FR;FR0129;Paris, Blvd. de Rochechouart;36 Boulevard de Rochechouart;75018;Paris;3;48,8837362;2,3451457
+FR;FR0130;Nîmes, Cap Costières;400 Avenue Claude Baillet;30918;Nîmes;4;43,8116754;4,3626346
+FR;FR0131;Valenciennes, Place d'Armes;39 Place d'Armes;59300;Valenciennes;2;50,3581357;3,5209537
+FR;FR0132;Marseille, Terrasses du Port;9 Quai du Lazaret;13002;Marseille;10;43,3067385;5,3619978
+FR;FR0133;Paris, Espace Saint-Quentin;Espace Saint-Quentin;78180;Montigny-le-Bretonneux;5;48,7843564;2,0426826
+FR;FR0134;Béziers, Auchan Béziers;4 Avenue de la Voie Domitienne;34500;Béziers;4;43,3455285;3,2408718
+FR;FR0135;Avignon, Cap Sud;Route de Marseille;84000;Avignon;4;43,919941;4,8616903
+FR;FR0136;Mulhouse, Rue du Sauvage;74 Rue du Sauvage;68100;Mulhouse;6;47,7492175;7,3365661
+FR;FR0137;Strasbourg, Rivetoile;3 Pl. Dauphine;67100;Strasbourg;9;48,5734542;7,7568252
+FR;FR0138;Dunkerque, Blvd. Alexandre III;37 Boulevard Alexandre III;59140;Dunkerque;2;51,0330038;2,3734588
+FR;FR0139;Paris, Noisy Les Arcades;234 Boulevard du Mont d'Est;93193;Noisy-le-Grand;1;48,8398844;2,5459952
+FR;FR0140;Nantes, Rue Crébillon;5 rue Crébillon;44000;Nantes;13;47,2140176;-1,5616483
+FR;FR0141;Belfort, Faubourg de France;18 Faubourg de France;90000;Belfort;6;47,6370144;6,8542845
+FR;FR0142;Angers, Espace Anjou;Angers, Espace Anjou;49000;Angers;13;47,4683276;-0,5301062
+FR;FR0143;Paris, Okabé;;94270;Le Kremlin-Bicêtre;11;48,8115875;2,3602708
+FR;FR0144;Paris, Cergy Les 3 Fontaines;Rue de la Croix des Maheux;95000;Cergy;3;49,0391775;2,0809933
+FR;FR0145;Nice, Lingostière;606 Boulevard du Mercantour;6200;Nice;10;43,7284189;7,1866478
+FR;FR0146;Reims, Rue de Vesle;;75009;Paris;9;49,2530038;4,0249457
+FR;FR0147;Caen, Mondeville 2;ZA de l'Etoile;14120;Mondeville;8;48,5101321;7,6954789
+FR;FR0148;Toulouse, Rue Saint-Rome;39 rue Saint-Rome;31000;Toulouse;7;43,6032352;1,4412062
+FR;FR0149;Nancy, Saint-Dizier;47 Rue Saint-Dizier;54000;Nancy;9;48,6902883;6,180882
+FR;FR0150;Marseille, Grand Littoral;;13001;Marseille;4;43,3628412;5,3463023
+FR;FR0151;Châlons-en-Champagne;Rue de la Marne;51000;Châlons-en-Champagne;9;48,9559284;4,3566163
+FR;FR0152;Saint-Étienne, Centre Deux;1-7 Rue des Docteurs Charcot;42100;Saint-Ètienne;12;45,4230254;4,3917156
+FR;FR0153;Toulon, Mayol;;6200;Nice;10;43,1200058;5,9324997
+FR;FR0154;Toulouse, Rue d'Alsace-Lorraine;23 Rue d'Alsace-Lorraine;31000;Toulouse;7;43,6019159;1,4433569
+FR;FR0155;Pau, Rue Serviez;4-6 rue Serviez;64000;Pau;7;43,2966154;-0,3706614
+FR;FR0156;Limoges, Saint-Martial;39 bis Avenue Garibaldi;87000;Limoges;13;45,8363417;1,2568212
+FR;FR0157;Avignon, Rue de la République;25 rue de la République;84000;Avignon;4;43,9461194;4,8036707
+FR;FR0158;Lille, Roubaix Espace Grand Rue;Centre commercial Espace Grand’Rue 21 bis Grande Rue;59100;Roubaix;2;50,6926108;3,1756458
+FR;FR0160;Metz, Rue Serpenoise;13, 15 and 17 rue Serpenoise;57000;Metz;9;49,1173193;6,1731497
+FR;FR0161;Paris, Sarcelles My Place;200 Avenue de la Division Leclerc;95200;Sarcelles;3;48,9856938;2,3708329
+FR;FR0162;Vannes, Carrefour Shopping;101 avenue de la Marne;56260;Vannes;13;47,71644;-3,410399
+FR;FR0163;Serris, Val d'Europe;Rue du Général de Gaulle;77090;Collégien;1;48,8551158;2,7758645
+FR;FR0164;La Roche-sur-Yo, Les Flaneries;;;;13;46,6922605;-1,4304857
+FR;FR0165;Les Ulis;Avenue de l’Aubrac;91940;Les Ulis;11;48,6777984;2,1688442
+FR;FR0166;Saint-Brieuc, Rue Saint-Guillaume;40-42 rue Saint Guillaume;22000;Saint-Brieuc;8;48,5127022;-2,7615638
+FR;FR0167;Annemasse, rue du commerce;;74100;Annemasse;12;46,1934068;6,2325567
+FR;FR0168;Vannes, Rue du Mené;22 Rue du Mené - 9 rue Brizeux;56000;Vannes;13;47,659004;-2,7592148
+FR;FR0169;Brest, Espace Jaurès;65 Rue Jean Jaurés;29200;Brest;8;48,3934201;-4,482045
+FR;FR0170;Fareberswiller, B’Est;61 avenue Saint-Jean;57450;Farebersviller;9;49,1130246;6,8492118
+FR;FR0171;Strasbourg, Hautepierre;1 Place André Maurois;67200;Strasbourg;9;48,5919376;7,6930842
+FR;FR0172;Villeneuve d'Ascq, V2;Boulevard de Valmy;59650;Villeneuve-d'Ascq;2;50,619311;3,1245539
+FR;FR0176;Levallois-Perret, So Ouest;31 rue d’Alsace;92300;Levallois-Perret;5;48,8917673;2,2947214
+FR;FR0177;Bourges, Avaricum;8 Av. de Peterborough;18000;Bourges;11;47,087629;2,3937784
+FR;FR0179;Amiens;8 rue des Trois Cailloux;80000;Amiens;3;49,8927189;2,2958741
+FR;FR0181;Porte Jeune;;68000;Mulhouse;6;47,7494501;7,3383601
+FR;FR0182;Orléans, Place d'Arc;;92100;Boulogne-Billancourt;5;47,9082151;1,9058469
+FR;FR0183;Brest, Iroise;Brest;29200;Empty;8;48,3845373;-4,535567
+FR;FR0184;Caen, Herouville;Quartier Val;14200;Herouville Saint Clair;8;49,2042362;-0,3498782
+FR;FR0185;Marseille, Centre Valentine;Rte de la Sablière D2;13011;Marseille;10;43,2931424;5,4777865
+FR;FR0186;Reims, Cora Cormontreuil;Route de Louvois;54300;Cormontreuil;9;49,2105062;4,0487784
+FR;FR0188;Bordeaux, Meriadeck;;;;7;44,8148411;-0,615499
+FR;FR0189;Auxerre, Les Clairions;Avenue Haussmann;89000;Auxerre;6;47,8105419;3,5714485
+FR;FR0190;Troyes, Rue Emile Zola;74-78 Rue Emile Zola;10000;Troyes;6;48,296299;4,0720342
+FR;FR0191;La Rochelle, Beaulieu;Rue du 14 Juillet;17138;Puilboreau;13;;
+FR;FR0192;Rouen, Rue aux Juifs;22 Rue Casimir Périer;76600;Le Havre;8;49,4416368;1,0935824
+FR;FR0194;Lille, Euralille;2 Rue de Faubourg des Postes;59000;Lille;2;50,6372247;3,0721061
+FR;FR0196;Angers, Grand Maine;10 Rue du Grand Launay;49100;Angers;13;47,4659385;-0,5941996
+FR;FR0198;Chem. de Barboussade;4 Chem. de Barboussade;13500;Martigues;4;43,4250741;5,0479424
+FR;FR0199;Boulogne-Billancourt, Blvd Je;44 Boulevard Jean Jaures;92100;Boulogne-Billancourt;5;48,8416714;2,2361518
+FR;FR0201;Toulon, Grand Var;Centre Commercial Mayol, Rue du Mûrier;83000;Poulon;10;43,1414233;6,0114316
+FR;FR0202;;Allée de Corse – Esplanade Patrice Chéreau;92200;Nanterre;5;48,8960586;2,1626153
+FR;FR0204;Paris, Rue de Rivoli 74;74, Rue de Rivoli;75004;Paris;1;48,896216;2,0389999
+FR;FR0207;Normal Bayonne;;13500;Paris;7;43,4814004;-1,4456835
+FR;FR0208;Roanne, Rue Charles de Gaulle;;13500;Paris;12;46,0377617;4,0691887
+FR;FR0209;Paris, Rue d'Alesia 123;;;;11;48,8290292;2,3229597
+FR;FR0211;Lyon, Rue de la République 28;Rue de la République 28;69002;Lyon;12;45,761774;4,8355278
+FR;FR0213;Moiselles, Modo;1 Route Nationale;95570;Moiselles;3;49,0548369;2,3298264
+FR;FR0214;Meaux, Les Saisons de Meaux;3 Av. Roland Moreno;77124;Chauconin-Neufmontiers;1;;
+FR;FR0215;Pontault-Combault, Carrefour;;77340;Pontault-Combault;1;48,7772018;2,6031503
+FR;FR0216;Aurillac, Rue Emile Duclaux;;13500;Paris;12;44,9291045;2,4447129
+FR;FR0217;Boulogne sur Mer;1001 Boulevard du Kent;62902;Coquelles;2;50,7235066;1,6016122
+FR;FR0219;Le Chesnay, Parly 2;2 Av. Charles de Gaulle;78150;Le Chesnay-Rocquencourt;5;;
+FR;FR0222;;;78370;Plaisir;5;48,8752163;2,3201104
+FR;FR0225;Marseille;Marseille, Rue de Rome 2A;13001;Marseille;4;43,2952258;5,3755332
+FR;FR0226;Vaulx en Velin;;77090;Collégien;12;;
+FR;FR0228;;;14120;Mondeville;7;;
+FR;FR0230;Mulhouse, Ile Napoléon;Av. de Fribourg;68100;Illzach;6;;
+FR;FR0231;Marseille, Rue de la République;Rue de la République 29-31;13002;Marseille;10;;
+FR;FR0235;Paris Av Jean Jaurès;136 Avenue Jean Jaurès;75019;Paris;3;;
+FR;FR0236;Marseille Rue de Rome;Rue de Rome 132;13006;Marseille;4;;
+FR;FR0237;Périgueux marsac;;;;7;;
+FR;FR0239;Compiégne, Rue Solferino;23 Rue Solférino;60200;Compiégne;3;;
+FR;FR0241;Macon, Place aux Herbes;40 Place aux Herbes;71000;Macon;12;46,3053249;4,8291228
+FR;FR0242;Le Mans, Maine Street;;77410;Claye-Souilly;8;;
+FR;FR0244;;Chemin de la Grande Campagne;13480;Cabriès;4;;
+FR;FR0246;Melun, Pl André Levy;77000;77000;Melun;1;;
+FR;FR0247;Dax, Grand Mail;;75013;Paris;7;;
+FR;FR0252;Levallois-Perret, Rue Henri Barbusse;2-4 Rue Henri Barbusse;;Levallois-Perret;5;;
+FR;FR0254;;;13480;Cabriès;11;;
+FR;FR0257;Montauban, Leclerc Aussonne;445 Rte du N;82000;Montauban;7;;
+FR;FR0259;Cherbourg, Les Eleis;Quai de l'Entrepôt;50100;Cherbourg-en-Cotentin;8;;
+FR;FR0261;Villefranche, Rue d'Anse;61 Rue d'Anse;69480;Villefranche-sur-Saone;12;;
+FR;FR0268;Chambéry;;;;12;;
+FR;FR0269;Toulouse, Saint-Georges;51 bis Rue du Rem Saint-Etienne;31000;Toulouse;7;;
+FI;FI0101;Espoo, Sello;Leppävaarankatu 3-9;2600;Espoo;6;60,2185937;24,8086214
+FI;FI0102;Tampere, Koskikeskus;Hatanpään Valtatie 1;33100;Tampere;2;61,4956496;23,7647998
+FI;FI0103;Tampere, Ratina;Vuolteenkatu 1;33100;Tampere;2;61,4930282;23,7658152
+FI;FI0104;Helsinki, Forum;Mannerheimintie 20;100;Helsinki;1;60,1692587;24,9365423
+FI;FI0105;Helsinki, Mall of Tripla;Firdonkatu 2B;520;Helsinki;1;60,198662;24,9274848
+FI;FI0106;Helsinki, ITIS;Itäkatu 1-7;930;Helsinki;1;60,2116567;25,0804221
+FI;FI0107;Espoo, Iso Omena;Siltakatu 11;2770;Espoo;6;60,1611683;24,7349506
+FI;FI0108;Raisio, Mylly;;70800;Empty;2;61,3622202;23,793538
+FI;FI0109;Raisio, Mylly;Myllynkatu 1;21280;Raisio;5;60,4908029;22,1988334
+FI;FI0110;Espoo, Lippulaiva;Espoonlahdenkatu 4;2320;Espoo;6;60,1490235;24,6539532
+FI;FI0111;Helsinki, Citycenter;;100;Helsinki;1;60,1697977;24,9397937
+FI;FI0113;Salo, Plaza;Vilhonkatu 8;24100;Salo;5;60,3863659;23,1218699
+FI;FI0114;Turku, Hansakortteli;Yliopistonkatu 20;20100;Turku;5;60,4501332;22,2616766
+FI;FI0115;Kuopio, Matkus;Matkuksentie 60;70800;Kuopio;3;62,8234704;27,5977567
+FI;FI0116;Espoo Entresse;Siltakatu 11;2770;Espoo;6;60,2037099;24,6571351
+FI;FI0117;Seinäjoki, Ideapark;;60320;Seinäjoki;2;62,7922956;22,7992249
+FI;FI0118;Vaasa, Espen;;60320;Seinäjoki;2;63,0962908;21,6155028
+FI;FI0119;Lahti, Karisma;Kauppiaankatu 2;15160;Lahti;3;60,9815433;25,7350613
+FI;FI0120;Lappeenranta, IsoKristiina;Kaivokatu 5;53100;Lappeenranta;3;61,0568137;28,1911342
+FI;FI0121;Helsinki, Kamppi;Urho Kekkosen katu 1;100;Helsinki;1;60,1691594;24,9310387
+FI;FI0122;Jyväskylä, Forum;Kauppakatu 20-22;40100;Jyväskylä;3;62,2413603;25,7454973
+FI;FI0123;Hyvinkää, Willa;Torikatu 7;5800;Hyvinkää;5;60,6318655;24,8631919
+FI;FI0124;Oulu, Ideapark;;90540;Oulu;4;65,0775978;25,4448002
+FI;FI0126;Kokkola, Chydenia;Rantakatu 2-4;67100;Kokkola;4;63,835663;23,1311734
+FI;FI0127;Hämeenlinna, Goodman;Kaivokatu 7;13100;Hämeenlinna;5;60,9944168;24,454764
+FI;FI0128;Lahti, Trio;Aleksanterinkatu 20;15140;Lahti;3;60,9830665;25,6610598
+FI;FI0129;Kempele, Zeppelin;;930;Helsinki;4;64,9020776;25,5363619
+FI;FI0130;Kuopio, Aapeli;Kuopio;70800;Empty;3;62,8913098;27,6758317
+FI;FI0131;Espoo, Ainoa;Länsituulentie 5;2100;Espoo;6;60,1754372;24,8013196
+FI;FI0132;Pori, Puuvilla;Siltapuistokatu 14;28100;Pori;2;61,494203;21,7980944
+FI;FI0134;Pori, IsoKarhu;Yrjönkatu 14;28100;Pori;2;61,4842553;21,7983036
+FI;FI0135;Turku, Skanssi;Skanssinkatu 10;20730;Turku;5;60,4301814;22,3199108
+FI;FI0136;Helsinki, Columbus;Firdonkatu 2 T 63;520;Helsinki;1;60,2069169;25,1441938
+FI;FI0137;Imatra, Koskitori;Einonkatu 6;55100;Imatra;3;61,1706461;28,7665022
+FI;FI0138;Mariehamn, Sittkoff Gallerian;Torggatan 13;22100;Mariehamn;5;60,0988324;19,9406141
+FI;FI0139;Joensuu, Iso Myy;Torikatu 25;80100;Joensuu;3;62,6017766;29,7617263
+FI;FI0140;Jyväskyla, Seppä;Ahjokatu 5;40320;Jyväskylä;3;62,2560093;25,7750673
+FI;FI0141;Helsinki, Hertsi;Linnanrakentajantie 2;880;Helsinki;1;60,1940369;25,0311558
+FI;FI0142;Vantaa, Myyrmanni;Kivivuorentie 4;1620;Vantaa;6;60,2601432;24,8534583
+FI;FI0143;Porvoo, Lundi;Lundinkatu 12 b;6100;Porvoo;1;60,3936521;25,6620748
+FI;FI0144;Tornio, Rajalla;Länsiranta 10;95400;Tornio;4;65,8430199;24,1436944
+FI;FI0145;Helsinki, Malmin Nova;Malminkaari 13-19;700;Helsinki;1;60,2509133;25,012299
+FI;FI0146;Tampere, Hämeenkatu;Hämeenkatu 7;33100;Tampere;2;61,4981152;23,7690108
+FI;FI0147;Seinäjoki, Megakeskus;Keskuskatu 3;60100;Seinäjoki;2;62,7916698;22,838618
+FI;FI0148;Vantaa, Martinlaakson;;2230;Espoo;6;60,279;24,852215
+FI;FI0149;Forssa, Prisma;Tapulikuja 6;30100;Forssa;5;60,8119252;23,6388212
+FI;FI0150;Ylojärvi, Elo;Elotie 1;33470;Ylöjärvi;2;61,553721;23,5741949
+FI;FI0151;Savonlinna, Kristalli;Olavinkatu 50;57100;Savonlinna;3;61,8702067;28,8772938
+FI;FI0152;Helsinki, Hakaniemi;Siltasaarenkatu 14;530;Helsinki;1;60,1790764;24,946925
+FI;FI0153;Helsinki, Yliopistonkatu;Yliopistonkatu 5;100;Helsinki;1;60,1700639;24,94715
+FI;FI0154;Kotka, Pasaati;Keskuskatu 10;48100;Kotka;3;60,4665076;26,9436437
+FI;FI0155;Rovaniemi, Revontuli;Koskikatu 27 B;96200;Rovaniemi;4;66,5029356;25,7246333
+FI;FI0156;Iisalmi, Torikulma;Satamakatu 10-12;74100;Iisalmi;4;63,5560639;27,1900014
+FI;FI0158;Tuuri, Tuurin Kauppakylä;Onnentie 6;63610;Tuuri;2;62,6013547;23,7283331
+FI;FI0159;Lahti, Syke;Kauppakatu 18;15140;Lahti;3;60,987094;25,6645577
+FI;FI0160;Riihimäki, Atomi;;;;5;60,7327084;24,7795848
+FI;FI0162;Oulu, Pekuri;Kauppurienkatu 10;90100;Oulu;4;;
+FI;FI0163;Rauma, Potkur;;60100;Seinäjoki;2;61,1278869;21,5041021
+FI;FI0164;Armada, Lappeenranta;;40320;Jyväskylä;3;61,059179;28,1824033
+FI;FI0165;;;50100;Mikeli;3;;
+FI;FI0166;Pori, Icco;Itäkeskuksenkaari 8;28130;Pori;2;;
+FI;FI0168;Jyväskylä, Keljokeskus;Kylmälahdentie 6;40500;Jyväskylä;3;;
+FI;FI0169;Helsinki, Myllypuron Ostari;;580;Helsinki;1;;
+FI;FI0170;Oulu, Valkea;Isokatu 22–25;90100;Oulu;4;;
+FI;FI0171;Kouvola, Kauppalankatu;Kauppalankatu 6-8;45100;Kouvola;3;;
+FI;FI0172;Helsinki, Vantaa Airport;Lentoasemantie 1;1530;Vantaa;6;;
+FI;FI0176;Hämeenlinna, Tiiriö;Pitkätanhuankatu 1;13130;Hämeenlinna;5;;
+FI;FI0178;Tampere, Tullintori;Tullikatu 6;33100;Tampere;2;;
+PT;PT0101;Sintra, Alegro Sintra;R. Alto do Forte IC 19;;Rio de Mouro;1;38,77542;-9,3406632
+PT;PT0102;Braga, Nova Arcada;Avenida de Lamas 100;;Braga;2;41,5622841;-8,4433206
+PT;PT0104;Porto, Parque Nascente;Praceta Parque Nascente 35;;Rio Tinto;2;41,173672;-8,5683243
+PT;PT0105;Porto Rua de Santa Catarina;Rua de Santa Catarina 382;;Porto;2;41,1495442;-8,608373
+PT;PT0106;Amadora, UBBO;Av. Cruzeiro Seixas 5 e 7;;Amadora;1;38,7789997;-9,2218508
+PT;PT0107;Portimão, Aqua Portimão;R. de São Pedro 72;;Portimão;1;37,1470032;-8,5453023
+PT;PT0108;Guimarães, Espaco Guimarães;Rua 25 De Abril 184-210;;Silvares;2;41,4368352;-8,365313
+PT;PT0109;Viseu, Palácio do Gelo;R. do Palácio do Gelo 3;;Viseu;2;40,6436756;-7,9136904
+PT;PT0110;Barreiro, BPlanet;Estrada Nacional n.º 10, km 18.5;;Coina;1;38,5826949;-9,0458328
+PT;PT0111;Lisboa, Entrecampos;Campo Grande 3;;Lisboa;1;;
+PT;PT0112;Coimbra, Alma Shopping;;;Viseu;2;;
+PT;PT0113;Vila Real, Nosso Shopping;Alameda de Grasse;;Vila Real;2;;
+PT;PT0114;Lisboa, Saldanha Residence;Avenida Fontes Pereira de Melo 42 E;;Lisboa;1;;
+PT;PT0115;Porto, Shopping Cidade do Por;R. de Gonçalo Sampaio 350;;Porto;2;;
+PT;PT0116;Lisboa, Campo Pequeno;;;Lisboa;1;;
+PT;PT0117;Setúbal, Alegro Setúbal;;;Portimão;1;;
+PT;PT0118;Loures, LoureShopping;Av. das Descobertas 90;;Loures;1;;
+PT;PT0119;Loulé, Mar Shopping Algarve;Av. Algarve;;Almancil;1;;
+PT;PT0120;Vila Nova de Gaia, GaiaShopping;;;Lisboa;1;;
+ES;ES0101;Madrid, La Gavia;Calle Adolfo Bioy Casares,2;28051;Madrid;1;;
+ES;ES0102;Torrejón, Parque Corredor;Carretera Torrejón a Ajalvir, S/N;28850;Torrejon de Ardoz;1;;
+ES;ES0103;Guadalajara, Ferial Plaza;Av. de Eduardo Guitián, 13, 19;19002;Guadalajara;1;;
+ES;ES0104;Murcia, Nueva Condomina;Autovía del Mediterráneo, Km. 760;30110;Murcia;1;;
+ES;ES0106;Valencia, Juan de Austria 32;Calle Don Juan de Austria 32;46002;Valencia;1;;
+ES;ES0107;Mataró, Mataró Parc;Carrer Estrasburg, 5;8304;Mataró, Barcelona;1;;
+ES;ES0108;Sanlúcar de Barrameda, Las Dunas;Carr. Puerto de Sta. María;11540;Cádiz;1;;
+ES;ES0109;San Javier, Dos Mares;N-332;30730;San Javier, Murcia;1;;
+ES;ES0111;Granada, Nevada;Av. de las palmeras nº 75;18100;Armilla, Granada;1;;
+ES;ES0112;Alcalá de Guadaíra, Los Alcores;A-92, Km. 8.8;41500;Alcalá de Guadaíra;1;;
+ES;ES0113;Madrid, Isla Azul;C. de la Calderilla, 1;28054;Madrid;1;;
+ES;ES0117;Zaragoza, Alfonso I 17;Alfonso I 17;50003;Zaragoza;1;;
